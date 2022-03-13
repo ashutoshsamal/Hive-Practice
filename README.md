@@ -1,1 +1,1 @@
-# Hive-Practice
+This Repository contains all hive concepts
